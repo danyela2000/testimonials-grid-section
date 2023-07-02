@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://github.com/danyela2000/testimonials-grid-section](https://github.com/danyela2000/testimonials-grid-section)
+- Live Site URL: [https://clever-gecko-35cfa8.netlify.app/](https://clever-gecko-35cfa8.netlify.app/)
 
 ## My process
 
