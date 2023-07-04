@@ -96,6 +96,7 @@ body {
 
 main.testimonials-container {
     grid-template-columns: repeat(auto-fit, minmax(18.75rem, 1fr));
+    grid-template-rows: repeat(2, min-content);
     margin: 4.375em 1.5625em;
     display: grid;
     gap:1.25em;
