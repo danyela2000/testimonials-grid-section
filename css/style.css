@@ -121,7 +121,7 @@ main.testimonials-container {
 }
 
 /* --------------Typhography --------------- */
-p.user-name, 
+.user-name, 
 p.user-info {
     font-size: 0.94rem;
 }
